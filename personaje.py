@@ -6,7 +6,7 @@ class Cubo:
         self.y = y
         self.ancho = 50 
         self.alto = 50
-        self.velocidad = 30
+        self.velocidad = 20
         self.color = "blue"
         self.rect = pygame.Rect(self.x,self.y,self.ancho,self.alto)
 
